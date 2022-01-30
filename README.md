@@ -1,3 +1,4 @@
-Site feito para exercitar o HTML5 e CSS3 estudados no curso da Alura.
+Site criado com uma página inicial básica com um menu interativo onde leva os usuários a uma outra página de PRODUTOS.
+Nessa outra página chamada de Produtos, temos imagens, menu interativo, informações sobre valor e descrição.
 
-O site contém 3 páginas, menu de navegação, estilizações ao clicar e  ao passar o mouse.
+Essa página de produtos tem um rodapé também e contém estilizações feitas pelo CSS3 como por exemplo : hover (ao passar o mouse sobre algo) e active( ao clicar com o botão do mouse).
