@@ -38,7 +38,7 @@ nav a{
 }
 
 nav a:hover{
-    color:goldenrod;
+    color:#C78C19;
     text-decoration: underline;
 }
 
@@ -64,7 +64,7 @@ nav a:hover{
 }
 
 .produtos li:hover{
-    border:2px solid goldenrod;
+    border:2px solid #C78C19;
 }
 
 .produtos h2{
