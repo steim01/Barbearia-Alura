@@ -89,3 +89,18 @@ nav a:hover{
     font-weight: bold;
     margin-top: 10px;
 }
+
+/* rodapé */
+
+footer {
+    text-align: center;
+    background: url("../images/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright{
+    font-size: 13px;
+    color: #FFFFFF;
+    margin: 20px 0 0;
+
+}
