@@ -223,6 +223,10 @@ td, th{
 
 /* estilização da parte dos benefícios */
 
+.beneficios{
+    padding: 3em 0;
+}
+
 .conteudo-beneficios{
     width: 640px;
     margin: 0 auto;
@@ -231,6 +235,15 @@ td, th{
 .lista-beneficios{
     width: 40%;
     display:inline-block;
+    vertical-align: top;
+}
+
+.itens{
+    line-height: 1.5; /* altura da linha*/
+}
+
+.itens:first-child{ /* para pegar o primeiro filho da lista*/
+    font-weight: bold;
 }
 
 .imagem-beneficios{
